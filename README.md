@@ -5,7 +5,12 @@ Apache Bench X
 
 Test performance by increasing concurrency, outputs a CSV of mean/median/max response time and failure rate.
 
-Usage:
+### Usage:
+```
+./abx.py time_per_test url_to_test
+```
+
+### Example:
 ```bash
 ./abx.py 10 http://gramercystudios.com/
 
