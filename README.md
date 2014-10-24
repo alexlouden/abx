@@ -58,4 +58,6 @@ concurrency,total_mean,total_median,total_max,percentage_failed
 100,218.0,219.0,337.0,0.0
 ```
 
+This can then be visualised using your favourite charting library or excel. For example:
+
 ![](http://i.imgur.com/LaOZT3D.png)
