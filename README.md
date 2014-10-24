@@ -3,6 +3,8 @@ abx
 
 Apache Bench X
 
+Test performance by increasing concurrency, outputs a CSV of mean/median/max response time and failure rate.
+
 Usage:
 ```bash
 ./abx.py 10 http://gramercystudios.com/
