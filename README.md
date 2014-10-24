@@ -51,4 +51,4 @@ concurrency,total_mean,total_median,total_max,percentage_failed
 100,218.0,219.0,337.0,0.0
 ```
 
-!()[http://i.imgur.com/LaOZT3D.png]
+![](http://i.imgur.com/LaOZT3D.png)
